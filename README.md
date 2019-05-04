@@ -1,4 +1,4 @@
-## Libft
+# Libft
 
 This projects seeks to build on the concepts learned during the C piscine
 (bootcamp), to code a library of useful functions that will be allowed to be
